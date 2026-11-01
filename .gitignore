@@ -10,3 +10,8 @@ website/out/
 # MCP server build artifacts
 mcp-server/node_modules/
 mcp-server/dist/
+
+# Local editor files, notebook checkpoints, and downloaded datasets
+.vs/
+**/.ipynb_checkpoints/
+torch/easy/augmentation/data/
